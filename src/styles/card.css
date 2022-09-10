@@ -1,0 +1,34 @@
+.card-prim {
+  margin: 12px 225px;
+  margin-top: 42px;
+  border-top: 1.6px solid rgba(141, 141, 141, 0.445);
+  display: flex;
+  justify-content: center;
+  min-height: 23vh;
+}
+/* .card-prim div {
+  margin-left: 14px;
+} */
+
+.cardsec p {
+  margin-left: 11px;
+  margin-top: 7px;
+}
+.cardsec p:nth-child(1) {
+  font-weight: 700;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+  margin-left: 11px;
+  margin: 8px;
+  background-color: rgb(158, 37, 61);
+  color: white;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+.cardimg img {
+  width: 155px;
+  border-radius: 8px;
+  margin: 38px 4px;
+}
